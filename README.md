@@ -1,24 +1,26 @@
 # First-Vite-React
 
-###npm create vite@latest
-###npm i
-###git init 
-###git add.
-###git commit -m "first"
-###git branch -M main
-###git add remote origin 
-###git push -u origin main
+```
+npm create vite@latest
+npm i
+git init 
+git add.
+git commit -m "first"
+git branch -M main
+git add remote origin 
+git push -u origin main
+```
 
-##vite.config.js 
+## vite.config.js 
 
-###export default defineConfig({
+### export default defineConfig({
 ###  plugins: [react()],
 ##  base :"/First-Vite-React"
-###})
+### })
 
 ##package.json
 
-###"scripts": {
+### "scripts": {
 ###    "dev": "vite",
 ###    "build": "vite build",
 ###    "preview": "vite preview",
@@ -37,4 +39,4 @@ npm run deploy
 git push
 ```
 
-##if not working create gh-pages branch in github and deploy pages 
+## if not working create gh-pages branch in github and deploy pages 
