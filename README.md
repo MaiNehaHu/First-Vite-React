@@ -11,14 +11,14 @@ git add remote origin
 git push -u origin main
 ```
 
-## vite.config.js 
+# vite.config.js 
 
 ### export default defineConfig({
 ###  plugins: [react()],
 ##  base :"/First-Vite-React"
 ### })
 
-##package.json
+# package.json
 
 ### "scripts": {
 ###    "dev": "vite",
@@ -39,4 +39,4 @@ npm run deploy
 git push
 ```
 
-## if not working create gh-pages branch in github and deploy pages 
+> if not working create gh-pages branch in github and deploy pages 
