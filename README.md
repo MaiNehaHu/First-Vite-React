@@ -13,19 +13,19 @@ git push -u origin main
 
 # vite.config.js 
 
-### export default defineConfig({
-###  plugins: [react()],
-##  base :"/First-Vite-React"
-### })
+> export default defineConfig({
+> plugins: [react()],
+> base :"/First-Vite-React"
+> })
 
 # package.json
 
-### "scripts": {
-###    "dev": "vite",
-###    "build": "vite build",
-###    "preview": "vite preview",
-###    "deploy": "gh-pages -d dist"
-###  },
+> "scripts": {
+>   "dev": "vite",
+>    "build": "vite build",
+>    "preview": "vite preview",
+>    "deploy": "gh-pages -d dist"
+>  },
 
 ```
 npm i gh-pages --save
