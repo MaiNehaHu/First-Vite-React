@@ -1,8 +1,5 @@
 # First-Vite-React
 
-## Portfolio : https://mainehahu.github.io/Portfolio/ 
-
-## Live link: 
 ```
 npm create vite@latest
 npm i
